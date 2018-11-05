@@ -4,5 +4,6 @@
 /.nrepl-*
 /checkouts
 /classes
+/examples/*/target
 /target
 pom.xml*
