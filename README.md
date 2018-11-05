@@ -1,8 +1,8 @@
 # externa
 
-[![][logo]][logo-large]
-
 *An extension of the [Clojure Component library](https://github.com/stuartsierra/component) for system parts outside of the JVM*
+
+[![][logo]][logo-large]
 
 **A development work in progress ...**
 
