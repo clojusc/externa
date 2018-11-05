@@ -1,6 +1,6 @@
 # externa
 
-[![][logo]][logo]
+[![][logo]][logo-large]
 
 *An extension of the [Clojure Component library](https://github.com/stuartsierra/component) for system parts outside of the JVM*
 
@@ -33,4 +33,5 @@ Apache License, Version 2.0.
 
 <!-- Named page links below: /-->
 
-[logo]: https://avatars2.githubusercontent.com/u/32934967?s=200&v=4
+[logo]: https://raw.githubusercontent.com/clojusc/externa/master/resources/images/logo-256.png
+[logo-large]: https://raw.githubusercontent.com/clojusc/externa/master/resources/images/logo-800.png
