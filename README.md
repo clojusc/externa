@@ -1,8 +1,11 @@
 # externa
 
+[![][logo]][logo]
+
 *An extension of the [Clojure Component library](https://github.com/stuartsierra/component) for system parts outside of the JVM*
 
 **A development work in progress ...**
+
 
 ## About
 
@@ -16,7 +19,18 @@ fronm the following:
 * docker containers
 * all of the above on a remote host
 
+
 ## Initial Thoughts
 
 * sending of serialized system state
 * returning prcoess id/host + process id and updated (serialized) system state
+
+
+## License
+
+Apache License, Version 2.0.
+
+
+<!-- Named page links below: /-->
+
+[logo]: https://avatars2.githubusercontent.com/u/32934967?s=200&v=4
