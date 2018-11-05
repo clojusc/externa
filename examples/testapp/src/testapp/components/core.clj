@@ -10,6 +10,12 @@
 (def std
   {:standard (standard/create)})
 
+(def jar
+  {:jar (component/using
+         (jar/create {
+          :component-id :testjarcomp
+          :path "../testjarcomp/target/testjarcomp-0.1.0-SNAPSHOT-standalone.jar"))})
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;   Component Initializations   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
